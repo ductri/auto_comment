@@ -27,4 +27,4 @@ Post: `__share__ Các mom có ai cho bé uống sữa này cho mình xin rewei n
 
 
 ## Conclude
-Training data includes ~300k, mostly about milk domain. There are so much variance in post/share-response, which makes model's prediction not good. However, it still learned to response with correct brand name :v
+Training data includes ~300k, mostly about milk. There are so much variance in post/share-response, which makes model's prediction not good. However, it still learned to make response with relevant brand name :v
