@@ -1,5 +1,4 @@
-#Train seq2seq for fun
-
+# Train seq2seq for fun, and playaround with Tensor2Tensor
 ## Dataset: 
 Data: Row [Row]*
 Row: (Post|Share Comment) | (Comment Reply-Comment)
